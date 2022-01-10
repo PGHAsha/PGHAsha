@@ -1,0 +1,72 @@
+[
+    {
+    "name":" Alabama",
+    "capital":" Annapolis",
+    "Bird":"Baltimore oriole",
+    "flower":"black-eyed susan",
+    "governor":"Larry Hogan",
+    "senator":"Chris Van Hollen",
+    "timezone":" Eastern",
+    "state song":"Maryland My Maryland"
+    }, 
+    {
+    "name":" Virginia",
+    "capital":" Richmond",
+    "Bird":"Cardinal",
+    "flower":"dogwood",
+    "governor":"Ralph Northam",
+    "senator":"Tim Kaine",
+    "timezone":" Eastern",
+    "state motto":"Thus always to tyrants"
+    },
+    {
+    "name":"PA",
+    "capital":" Harrisburg",
+    "Bird":"Ruffed frouse",
+    "flower":"black-eyed susan",
+    "governor":"Tom wolf",
+    "senator":"Pat Toomey",
+    "timezone":" Eastern",
+    "state song":"Hail PA"     
+    },
+    {
+    "name":" NJ",
+    "capital":" Trenton",
+    "Bird":"The Eastern Goldfinch",
+    "flower":"common blue violet",
+    "governor":"Phil Murphy",
+    "senator":"Bob Menendez",
+    "timezone":" Eastern",
+    "state song":" I am from NJ"
+   },
+   {
+    "name":" NY",
+    "capital":" Albany",
+    "Bird":"Eastern blue bird",
+    "flower":"Rose",
+    "governor":"Kathy Hochul",
+    "senator":"Kristen Gilllibrand",
+    "timezone":" Eastern",
+    "state song":"I love Newyork"
+    },
+    {
+    "name":" Masssachusets",
+    "capital":" Boston",
+    "Bird":"Mass Audubonl",
+    "flower":"Mayflower",
+    "governor":"Ralph Northam",
+    "senator":"Tim Kaine",
+    "timezone":" Eastern",
+    "state motto":"All hail to massachusets"
+    },
+    {
+        "name":" Maine",
+    "capital":" Richmond",
+    "Bird":"chickadee",
+    "flower":"whitepine cone",
+    "governor":"Janet Mills",
+    "senator":"?suisan collins",
+    "timezone":" Eastern",
+    "state song":"Maine song"
+    }
+]

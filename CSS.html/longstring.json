@@ -1,0 +1,10 @@
+function longstring(word1, word2){
+    var firststring = word1.length;
+var secondstring = word2.length;
+if (firststring > secondstring) {
+  return "Longest string is " + word1;
+}else {
+return "Longest string is " + word2;
+}}
+console.log (longstring("UnitedStatesofAmerica","India"));
+ Longest string is UnitedStatesofAmerica

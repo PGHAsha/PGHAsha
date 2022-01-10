@@ -1,0 +1,4 @@
+function Numb( Number) { if (Number >= 5000 && Number <= 9999) {console.log("True");return true;}
+else { console.log("False"); return false;}}
+
+Numb(6000)

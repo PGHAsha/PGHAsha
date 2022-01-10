@@ -1,0 +1,6 @@
+function convctof(dcelsius) {
+    var fheit = (dcelsius * 1.8) +32;
+    return fheit+" "+"Fahrenheit";
+}
+console.log(convctof(35));
+ 95 Fahrenheit

@@ -1,0 +1,10 @@
+var Num2 = 30
+var Num1 = 20
+function max(Num1,Num2){
+if(Num1>Num2){
+console.log(Num1);
+}else{
+console.log (Num2);
+}
+}
+max(Num1,Num2)

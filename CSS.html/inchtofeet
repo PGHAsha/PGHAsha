@@ -1,0 +1,6 @@
+function ft(inch) {
+    var infeet = Math.floor(inch/12);
+    var inches = inch%12;
+    return infeet + "' "+ inches + "\" ";
+}
+console.log(ft(38));

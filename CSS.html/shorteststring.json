@@ -1,0 +1,12 @@
+function findShortestWord (str){ 
+    var i = 0;
+    var lenghtOfFirstWord = str[0].length;
+    for ( var j = 0; j < str.length; j++){
+        console.log(str[j].length); 
+        if ( str[j].length < lenghtOfFirstWord) {
+            lenghtOfFirstWord=str[j].length;
+            i=j; 
+            console.log ("value of i = " + i);}
+    }
+    return "Shortest Word is : " + str[i];
+    }

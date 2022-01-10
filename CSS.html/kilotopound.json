@@ -1,0 +1,8 @@
+function convweight(num,unit) {
+    if (unit == "kg") {
+    return num*2.2046 + " " + "lbs";
+    } else { 
+    return num/2.2046 + "  "+"kg";}
+    }
+    console.log(convweight(6,"kg"));
+    13.2276 lbs

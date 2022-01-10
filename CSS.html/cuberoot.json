@@ -1,0 +1,4 @@
+function AnyNo (Num) {
+    console.log (Math.cbrt(Num));
+    }
+    AnyNo (64)
