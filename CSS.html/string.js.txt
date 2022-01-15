@@ -1,0 +1,13 @@
+let students = ['Andy','jose','kevin'];
+function toAddString(p) {
+var addString ="";
+console.log("value of addString before the for loop :"+addString);
+for (var i=0;i<p.length;i++) {
+	console.log (" element" + p[i]);
+  console.log("value of addString before adding : " + addString);
+  addString = addstring + p[i];
+  console.log("value of addString after adding : " + addString);
+}
+return addString;
+}
+console.log(toAddString(students))
